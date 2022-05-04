@@ -1,1 +1,1 @@
-# CS5812 Predictive Data Analysis
+# Prediction of life expectancy

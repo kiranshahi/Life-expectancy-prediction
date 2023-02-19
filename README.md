@@ -35,7 +35,7 @@ Complete report is available [here at github.](report.pdf)
 
 ### screenshots:
 
-##### Exploratory Data Analysis (EDA)
+#### Exploratory Data Analysis (EDA)
 ![Male vs Female life expectancy](/images/Male-vs-Female-expected-life.png "Male vs Female life expectancy")
 
 Findings from preliminary EDA: Female has higher life expectancy compared with male.
@@ -44,52 +44,63 @@ ___
 ![Corelation Plot](/images/corelation-plot.png "Corelation Plot")
 
 Corelation plot showing the multicollinearity issues among variables.
+___
 
 ![Biplot between Component and variable](/images/pca-plot.png "Biplot between Component and variable")
 
 Biplot showing the relationship between Principal Component and variable
+___
 
 ![Visualization of variance and component in scree plot](/images/pca1-vs-pca2.png "Visualization of variance and component in scree plot")
 
 Visualization of variance and component (PCA1 and PCA2) in scree plot
+___
 
-##### Data preparation and cleaning
+#### Data preparation and cleaning
 
 ![Missing and invalid data](/images/initial-missing-values.png "Missing and invalid data")
 
 Visualization of missing and invalid data before cleaning.
+___
 
 ![Missing and invalid data](/images/initial-missing-values-missingo.png "Missing and invalid data")
 
-Visualization of [missing](https://github.com/ResidentMario/missingno) and invalid data before cleaning using missingno library.
+Visualization of missing and invalid data before cleaning using [missingno library](https://github.com/ResidentMario/missingno).
+___
 
 ![Missing and invalid data](/images/after-data-cleaning.png "Missing and invalid data")
 
 Visualization of missing and invalid data after cleaning.
+___
 
 ![Missing and invalid data](/images/after-data-cleaning-1.png "Missing and invalid data")
 
 Visualization of missing and invalid data after cleaning using missingno library.
+___
 
-##### Performance of Machine Learning Algorithm in our dataset
+#### Performance of Machine Learning Algorithm in our dataset
 
 ![Machine learning performance](/images/random-forest-after-fine-tuning.png "Machine learning performance")
 
 Performance of Random Forest after fine tuning of hyperparameters on Life expectancy datasets.
+___
 
 ![Feature importance on model prediction](/images/Feature-importances-Random-forest.png "Feature importance on model prediction")
 
 Visualization of feature importance on prediction. *#Explainable AI*
+___
 
-##### Performance of Deep Learning Algorithm (Neural Network) in our dataset
+#### Performance of Deep Learning Algorithm (Neural Network) in our dataset
 
 ![Neural Network's performance](/images/model-performance-after-fine-tuning.png "Neural Network's performance")
 
 Performance of Neural Network after fine tuning of hyperparameters on Life expectancy datasets.
+___
 
 ![Visualization of shap value](/images/Feature-impact-on-prediction-result.png "Neural Network's performance")
 
 Visualization of shap value on model's prediction. *#Explainable AI*
+___
 
 ### References
 Head, E., 2021. Life expectancy declining in many English communities even before pandemic | Imperial News | Imperial College London. [online] Imperial News. Available at: https://www.imperial.ac.uk/news/231119/life-expectancy-declining-many-english-communities/ [Accessed 23 March 2022].

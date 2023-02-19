@@ -34,7 +34,7 @@ In this research we have downloaded 4 different raw dataset from *World Bank* an
 Complete report is available [here at github.](report.pdf)
 
 ### screenshots:
-![Male vs Female life expectancy](/images/Male vs Female expected life.png "Male vs Female life expectancy")
+![Male vs Female life expectancy](/iMale-vs-Female-expected-life.png "Male vs Female life expectancy")
 Findings from preliminary EDA: Female has higher life expectancy compared with male.
 ___
 

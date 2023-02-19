@@ -34,6 +34,9 @@ In this research we have downloaded 4 different raw dataset from *World Bank* an
 Complete report is available [here at github.](report.pdf)
 
 ### screenshots:
+![Male vs Female life expectancy](/images/Male vs Female expected life.png "Male vs Female life expectancy")
+Findings from preliminary EDA: Female has higher life expectancy compared with male.
+___
 
 ### References
 Head, E., 2021. Life expectancy declining in many English communities even before pandemic | Imperial News | Imperial College London. [online] Imperial News. Available at: https://www.imperial.ac.uk/news/231119/life-expectancy-declining-many-english-communities/ [Accessed 23 March 2022].
